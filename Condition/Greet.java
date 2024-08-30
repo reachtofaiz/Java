@@ -1,4 +1,4 @@
-public class Condition{
+public class Greet{
 
     public static void main(String[] args) {
         int x = 16;
