@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Largest_element{
+public class Sort{
     public static void main(String[] args) {
         int[] num = {1, 5, 3, 4, 5};
  
